@@ -15,6 +15,9 @@
     온습도 센서는 gpio핀을 설정하고 새로 고침을 해서 앱에서 연동한 뒤 온도와 습도를 표시해줍니다.<br>
     모터 제어의 경우 on/off를 앱으로 해서 누르면 on의 경우 물이 나오고 off의 경우 물이 안나옵니다.</h4><br><br>
 
+<h3 style="text-align: center;">프로젝트 진행 일정</h3>
+<div style="text-align: center;"><img src="img/개발일정.png" alt=""></div><br>
+
 <h4>보완할 점</h4>
 
 <h4>처음에 계획은 플러터와 라즈베리파이를 이용해 수중 모터를 제어할 수 있도록 만드는 것이었으나, <br>
