@@ -6,7 +6,7 @@
 
 <h2>밑에 보이시는 것은 외부형태 입니다.</h2>
 
-<img src="img/외부형태.jpg" alt="" width="400" height="500">
+<img src="img/외부형태.jpg" alt="" width="400" height="500"><br>
 
 
 <h4 style="text-align: center;">기능 구현</h4>
