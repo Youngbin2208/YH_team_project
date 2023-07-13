@@ -15,6 +15,11 @@
     온습도 센서는 gpio핀을 설정하고 새로 고침을 해서 앱에서 연동한 뒤 온도와 습도를 표시해줍니다.<br>
     모터 제어의 경우 on/off를 앱으로 해서 누르면 on의 경우 물이 나오고 off의 경우 물이 안나옵니다.</h4><br><br>
 
+<h4 style="text-align: center;">개발에 사용한 기술</h4>
+<div style="text-align: center;"><img src="img/python.png" alt="" width="500" height="300"></div>
+<h4 style="text-align: center;">저희 팀은 라즈베리파이를 이용하여 코딩을 하게 되었는데 파이썬이 사용되었습니다.</h4><br>
+
+
 <h4 style="text-align: center;">레이아웃 세부 설명</h4>
 <div style="text-align: center;"><img src="img/레이아웃.png" alt="" width="500" height="400"></div>
 <h4 style="text-align: center;">시작에서 라즈베리파이를 이용해서 카메라 모듈, 온습도 센서, 모터 제어를<br>
